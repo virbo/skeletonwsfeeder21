@@ -19,7 +19,6 @@ $fungsi = $_GET['fungsi'];
 $dict = [
     'act' => 'GetDictionary',
     'token' => $_token,
-    //'token' => 'efce4b091de6abcb8126740a212b7cb9',
     'fungsi' => $fungsi
 ];
 

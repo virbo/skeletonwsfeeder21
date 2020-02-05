@@ -34,8 +34,6 @@
 
 					$_ws = new WS();
 
-					//$_ws->url = 'https://feeder.akper-luwuk.ac.id/ws/';
-
 					$_get = file_get_contents($_ws->url.$_ws->mode.'.php');
 					//echo $_get;
 

@@ -16,7 +16,7 @@ class WS
 	/**
 	 * @var mode string. mode 'sandbox2' => 'sandbox2.php', 'live2' => 'live2.php'
 	 */
-	public $mode = 'live2';
+	public $mode = 'sandbox2';
 	//const MODE = 'sandbox';
 
 	/**
